@@ -25,7 +25,11 @@ Trained for 10 epochs, achieving 94.84% test accuracy.
 ## Built with
 
 -Python
+
 -PyTorch
+
 -Torchvision
+
 -OpenCV
+
 -Scikit-learn
