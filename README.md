@@ -1,4 +1,4 @@
-<h1> LockInAI </h1>
+<h1> SignLanguageIdentifier </h1>
 
 ## 📝 Overview 📝
 
