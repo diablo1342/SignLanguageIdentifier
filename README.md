@@ -1,11 +1,12 @@
-📝 Overview 📝
+<h1> LockInAI </h1>
+
+## 📝 Overview 📝
 
 Sign Language Identifier is a computer vision application that uses deep learning to classify sign language gestures from images. The model is trained on a labeled dataset and predicts the corresponding letter or symbol with high accuracy.
 
 What makes this project special is its use of VGG16 transfer learning in PyTorch, achieving strong performance on a relatively small dataset and enabling real-time image classification for sign language recognition.
 
-How we built it
-
+## How I built it
 Model: Pre-trained VGG16 (ImageNet weights) modified for our number of classes.
 
 Framework: PyTorch for model training, evaluation, and inference.
@@ -21,14 +22,10 @@ SGD optimizer and CrossEntropyLoss for classification.
 Trained for 10 epochs, achieving 94.84% test accuracy.
 
 
-Built with
+## Built with
 
-Python
-
-PyTorch
-
-Torchvision
-
-OpenCV
-
-Scikit-learn
+-Python
+-PyTorch
+-Torchvision
+-OpenCV
+-Scikit-learn
