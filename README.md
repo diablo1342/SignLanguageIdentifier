@@ -6,6 +6,8 @@ Sign Language Identifier is a computer vision application that uses deep learnin
 
 What makes this project special is its use of VGG16 transfer learning in PyTorch, achieving strong performance on a relatively small dataset and enabling real-time image classification for sign language recognition.
 
+Training data was too big to fit on github, you can download it here: https://drive.google.com/drive/folders/1o-pAHnYPnEJtLkjYeFCZfORLmrIJLsY4?usp=sharing
+
 ## How I built it
 Model: Pre-trained VGG16 (ImageNet weights) modified for our number of classes.
 
