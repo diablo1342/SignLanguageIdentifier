@@ -35,3 +35,10 @@ Trained for 10 epochs, achieving 94.84% test accuracy.
 -OpenCV
 
 -Scikit-learn
+
+## Results
+
+- 94% accuracy in determining gestures from images.
+
+## Future
+- Will look to incorporate this into live video recordings to allow for live translation.
